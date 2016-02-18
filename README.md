@@ -1,6 +1,5 @@
 # NovelApp
 
-Unityで[iTween](https://www.assetstore.unity3d.com/en/#!/content/84)を使用してノベルアプリっぽいものを作りました！  
 [iTweenでノベルアプリを作ろう！ ～ノベつく～](http://qiita.com/tempura/items/7610df49955d1aff15de)
 
 ## Requirement
