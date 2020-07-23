@@ -5,8 +5,4 @@
 
 ## Requirement
 
-Unity 5.3.2  
-
-## Author
-
-http://okamura0510.jp
+Unity 5.3.2
